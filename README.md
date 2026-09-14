@@ -10,7 +10,8 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vequha)
 [![TG Channel](https://img.shields.io/badge/TG_Канал-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vequha)
-[![Discord](https://img.shields.io/badge/Discord_%40dizansky-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/deepseek.dev)
+[![Discord]([https://img.shields.io/badge/Discord_%40dizansky-5865F2?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/Discord_%40deepseek.dev-5865F2
+))](https://discordapp.com/users/deepseek.dev)
 
 </div>
 
