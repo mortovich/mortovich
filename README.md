@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=Backend+Developer+%7C+17+y.o.;C%23+%7C+Python+%7C+Node.js;Freelance+%26+Contract+Dev;Cybersecurity+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer+%7C+16+y.o;C%23+%7C+Python+%7C+Js+%7C+C%2B%2B+%7C+HTML+%7C+more...;Freelance+%26+Contract+Dev;CyberSecurity+;Find+me+plz;I+got+my+valid" alt="Typing SVG" />
 
 <p align="center">
   <b>Backend-разработчик • Пишу отказоустойчивые системы • Увлекаюсь инфобезом</b>
