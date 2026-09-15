@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer+%7C+16+y.o;C%23+%7C+Python+%7C+Js+%7C+C%2B%2B+%7C+HTML+%7C+more...;Freelance+%26+Contract+Dev;CyberSecurity+;Find+me+plz;I+got+my+valid" alt="Typing SVG" />
 
 <p align="center">
+  <b>https://mortov.su/<b>
   <b>Backend-разработчик • Пишу отказоустойчивые системы • Увлекаюсь инфобезом</b>
 </p>
 
